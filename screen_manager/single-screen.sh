@@ -1,0 +1,1 @@
+xrandr --output DP-0 --output HDMI-0 --off

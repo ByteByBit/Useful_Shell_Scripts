@@ -1,0 +1,1 @@
+xrandr --output DP-0 --pos 3840x1180 --output HDMI-0 --auto
